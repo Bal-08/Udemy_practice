@@ -5,3 +5,4 @@ c=a+b
 print(c)
 name= ("Deivin Orlando Bal Bal")
 print(name)
+nuevo = 2
